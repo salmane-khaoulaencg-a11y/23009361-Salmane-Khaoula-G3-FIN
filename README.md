@@ -7,8 +7,7 @@
 **Filière :** S7 FIN / S7 CI  
 **Sujet :** F3 – Prévision de l'inflation  
 
-**Dépôt :** [https://github.com/[ton-identifiant]/CodeApogee-Nom-Groupe](https://github.com/salmane-khaoulaencg-a11y/23009361-Salmane-Khaoula-G3-FIN.git)]
-
+**Dépôt :** [https://github.com/salmane-khaoulaencg-a11y/23009361-Salmane-Khaoula-G3-FIN.git]
 ---
 
 ## 1. Résumé du projet
